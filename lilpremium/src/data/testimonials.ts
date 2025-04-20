@@ -7,7 +7,7 @@ export const testimonials: Testimonial[] = [
     rating: 5,
     text: 'Saya sudah pakai YouTube Premium dari LILL PREMIUM selama 3 bulan dan pelayanannya luar biasa. Harga jauh lebih murah dari berlangganan sendiri dan tidak ada masalah sama sekali!',
     service: 'YouTube Premium',
-    date: 'Juli 2023'
+    date: 'Juli 2024'
   },
   {
     name: 'Anita Wijaya',
@@ -15,7 +15,7 @@ export const testimonials: Testimonial[] = [
     rating: 5,
     text: 'ChatGPT Plus dengan harga terjangkau? Ya di LILL PREMIUM! Sudah 2 bulan pakai dan saya sangat puas dengan layanannya. Responnya cepat dan akunnya berfungsi sempurna.',
     service: 'ChatGPT Plus',
-    date: 'Agustus 2023'
+    date: 'Agustus 2024'
   },
   {
     name: 'Budi Santoso',
@@ -23,7 +23,7 @@ export const testimonials: Testimonial[] = [
     rating: 4,
     text: 'Netflix premium dengan harga terjangkau. Admin sangat responsif ketika ada kendala. Sempat ada masalah login sekali tapi langsung dibantu sampai beres.',
     service: 'Netflix',
-    date: 'September 2023'
+    date: 'September 2024'
   },
   {
     name: 'Maya Lestari',
@@ -31,6 +31,6 @@ export const testimonials: Testimonial[] = [
     rating: 5,
     text: 'Berlangganan Spotify premium di sini sangat worth it! Harga jauh lebih murah dan pelayanannya bagus. Sudah 6 bulan langganan dan tidak ada masalah sama sekali.',
     service: 'Spotify',
-    date: 'Oktober 2023'
+    date: 'Oktober 2024'
   },
 ];

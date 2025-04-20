@@ -44,10 +44,10 @@ const Contact = () => {
               
               <div className="mt-12 text-center">
                 <p className="text-gray-400">
-                  Jam operasional: <span className="text-white">09.00 - 21.00 WIB</span>
+                  Jam operasional: <span className="text-white">09.00 - 23.59 WITA</span>
                 </p>
                 <p className="text-gray-400 mt-2">
-                  Respon cepat dalam waktu 5-30 menit
+                  Respon cepat dalam waktu 5-30 menit, Jika admin lama berarti admin sibuk Skripsian
                 </p>
               </div>
             </div>
