@@ -25,7 +25,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-gray-400 mb-1">WhatsApp</p>
-                      <p className="text-xl font-medium">0882-0208-78741-0822-9122-0759</p>
+                      <p className="text-xl font-medium">0882-0208-78741 atau 0822-9122-0759</p>
                     </div>
                   </div>
                 </div>
