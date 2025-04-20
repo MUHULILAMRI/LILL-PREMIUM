@@ -31,12 +31,11 @@ const PurchaseMenu = () => {
                   <span className="inline-block bg-green-500 rounded-full w-5 h-5 flex-shrink-0 mt-1 mr-3"></span>
                   <span>
                     1. dompet digital: DANA, OVO, ShopeePay, dan GoPay.
-                    2. Transper Bank : Bri, Seaban
                     </span>
                 </li>
                 <li className="flex items-start">
                   <span className="inline-block bg-blue-500 rounded-full w-5 h-5 flex-shrink-0 mt-1 mr-3"></span>
-                  <span>Garansi Penuh: Setiap pembelian dilindungi dengan garansi penuh.</span>
+                  <span>2. Transper Bank : Bri, Seabank</span>
                 </li>
               </ul>
             </div>
