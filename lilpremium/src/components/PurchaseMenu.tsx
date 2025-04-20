@@ -33,12 +33,15 @@ const PurchaseMenu = () => {
                 </li>
                 <li className="flex items-start">
                   <span className="inline-block bg-blue-500 rounded-full w-5 h-5 flex-shrink-0 mt-1 mr-3"></span>
-                  <span>Metode Pembayaran: DANA, OVO, ShopeePay, dan GoPay.</span>
+                  <span>Metode Pembayaran
+                    
+                    1. dompet digital: DANA, OVO, ShopeePay, dan GoPay.
+                    2. Transper Bank : Bri, Seabank</span>
                 </li>
               </ul>
             </div>
             <div className="flex flex-wrap justify-center gap-3 mt-6 md:mt-0">
-              <img src="https://images.pexels.com/photos/7232497/pexels-photo-7232497.jpeg?auto=compress&cs=tinysrgb&w=300" alt="Payment Method" className="h-12 rounded-md object-cover" />
+              <img src="https://durianpay.id/assets/img/newlandingpage/section-8-companies-mobile-alt.webp" alt="Payment Method" className="h-12 rounded-md object-cover" />
             </div>
           </div>
         </div>
