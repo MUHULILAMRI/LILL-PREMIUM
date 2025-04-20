@@ -10,7 +10,7 @@ const Footer = () => {
               <span className="text-red-600">LILL</span> PREMIUM
             </h2>
             <p className="text-gray-400 mt-2 text-sm">
-              Patungan langganan digital premium terpercaya
+              langganan digital premium terpercaya
             </p>
           </div>
           
@@ -32,7 +32,7 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} LILL PREMIUM. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 text-sm text-gray-500">
-            Dibuat dengan ❤️ untuk pelanggan premium
+            Dibuat untuk pelanggan premium yang tentu  premium
           </div>
         </div>
       </div>

@@ -17,7 +17,7 @@ export const services: Service[] = [
   {
     id: 2,
     name: 'ChatGPT Plus',
-    price: 'Rp35.000',
+    price: 'Rp39.000',
     period: 'bulan',
     image: 'https://images.pexels.com/photos/7775642/pexels-photo-7775642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     features: [
