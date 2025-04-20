@@ -12,7 +12,7 @@ const Hero = () => {
             Nikmati Layanan Premium dengan Harga <span className="text-red-600">Terjangkau</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8">
-            Patungan langganan digital premium dengan harga hemat, dijamin aman, dan terpercaya.
+            langganan digital premium dengan harga hemat, dijamin aman, dan terpercaya.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a 
