@@ -10,6 +10,7 @@ export const testimonials: Testimonial[] = [
     date: 'Juli 2024'
   },
   {
+    
     name: 'Anita Wijaya',
     image: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=640',
     rating: 5,
