@@ -25,11 +25,11 @@ const PurchaseMenu = () => {
         <div className="mt-16 bg-gray-900 rounded-xl p-6 md:p-8 max-w-3xl mx-auto">
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="flex-1">
-              <h3 className="text-xl font-bold mb-4">Fitur Tambahan</h3>
+              <h3 className="text-xl font-bold mb-4">Metode Pembayaran</h3>
               <ul className="space-y-3">
                 <li className="flex items-start">
                   <span className="inline-block bg-green-500 rounded-full w-5 h-5 flex-shrink-0 mt-1 mr-3"></span>
-                  <span>Metode Pembayaran
+                  <span>
                     1. dompet digital: DANA, OVO, ShopeePay, dan GoPay.
                     2. Transper Bank : Bri, Seaban
                     </span>
